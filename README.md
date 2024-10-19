@@ -1,6 +1,6 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
-## NAME:Vignesh.v
-# REG NO:212223230241
+## NAME:KAVINRAJ.S
+# REG NO:212223100019
 # AIM :
 ## To write a C program to implement a symbol table.
 # ALGORITHM
